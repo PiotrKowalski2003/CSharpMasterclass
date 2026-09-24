@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMasterclass", "CSharpMasterclass\CSharpMasterclass.csproj", "{AF99BE6B-35BA-4EBA-8318-B24C123CB667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF99BE6B-35BA-4EBA-8318-B24C123CB667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF99BE6B-35BA-4EBA-8318-B24C123CB667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF99BE6B-35BA-4EBA-8318-B24C123CB667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF99BE6B-35BA-4EBA-8318-B24C123CB667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
