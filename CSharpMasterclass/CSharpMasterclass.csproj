@@ -42,6 +42,7 @@
     <ItemGroup>
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="Section01_Introduction\GettingInput\Input.cs" />
         <Compile Include="Section01_Introduction\Syntax\Syntax.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
