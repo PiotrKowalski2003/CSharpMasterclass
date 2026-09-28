@@ -46,6 +46,7 @@
         <Compile Include="Section01_Introduction\Syntax\Syntax.cs" />
         <Compile Include="Section02_Variables\DeclaringVariables\Variables.cs" />
         <Compile Include="Section03_OperatorsAndOperations\ArithmeticOperators\ArithmeticOperators.cs" />
+        <Compile Include="Section03_OperatorsAndOperations\BitwiseOperators\BitwiseOperators.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
