@@ -50,6 +50,7 @@
         <Compile Include="Section03_OperatorsAndOperations\BitwiseOperators\BitwiseOperators.cs" />
         <Compile Include="Section03_OperatorsAndOperations\ComparisonOperators\ComparisonOperators.cs" />
         <Compile Include="Section03_OperatorsAndOperations\SimpleCalculator\SimpleCalculator.cs" />
+        <Compile Include="Section03_OperatorsAndOperations\TaxCalculatorProject\TaxCalculatorProject.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
