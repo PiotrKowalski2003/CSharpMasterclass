@@ -51,6 +51,7 @@
         <Compile Include="Section03_OperatorsAndOperations\ComparisonOperators\ComparisonOperators.cs" />
         <Compile Include="Section03_OperatorsAndOperations\SimpleCalculator\SimpleCalculator.cs" />
         <Compile Include="Section03_OperatorsAndOperations\TaxCalculatorProject\TaxCalculatorProject.cs" />
+        <Compile Include="Section04_StringsArraysLists\Arrays\Arrays.cs" />
         <Compile Include="Section04_StringsArraysLists\Strings\Strings.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
